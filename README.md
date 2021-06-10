@@ -1,2 +1,2 @@
-# Computa-o-Gr-fica
+# Computação-Gráfica
 Estudo sobre os principais algorimos clássicos da computação gráfica em Java
